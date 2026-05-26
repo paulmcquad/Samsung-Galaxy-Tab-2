@@ -1,3 +1,9 @@
+# Custom Firmware on Samsung GT-P3110
+
+## Samsung Galaxy Tab 2 7.0
+
+Android Version : 6.0.1 (Marshmallow)
+
 # Install Android 6.0.1 (Marshmallow)
 
 Note:
@@ -9,6 +15,12 @@ https://xdaforums.com/t/samsung-galaxy-2-p3110-cm13-unofficial-android-6-0-1-mar
 
 
 ## Requirements
+
+Software sites:
+
+https://andi34.github.io/roms_tab2_cm.html
+
+
 
 Sha1sum:
 

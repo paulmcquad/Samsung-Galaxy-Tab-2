@@ -1,18 +1,12 @@
-# Custom Firmware on Samsung GT-P3110
+# Team Win Recovery Project (TWRP)
 
-## Samsung Galaxy Tab 2 7.0
-
-Android Version : 6.0.1 (Marshmallow)
-
-## Team Win Recovery Project (TWRP)
-
-### Install on Linux via heimdall
+## Install on Linux via heimdall
 
 heimdall
 
 sudo apt install heimdall-flash
 
-### Install (TWRP) - 3.1.1-0 (P3110)
+## Install (TWRP) - 3.1.1-0 (P3110)
 
 Sha1sum:
 
